@@ -20,7 +20,7 @@ This project provides a web application to analyze the toxicity of text inputs u
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/your-username/text-toxicity-analysis.git
+    git clone https://github.com/kvba1/Text-Toxicity-Analysis
     cd text-toxicity-analysis
     ```
 
