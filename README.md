@@ -1,6 +1,6 @@
 # Text Toxicity Analysis 📝
 
-This project provides a web application to analyze the toxicity of text inputs using a pre-trained BERT model. The application classifies text into multiple categories of toxicity including `toxic`, `severe_toxic`, `obscene`, `threat`, `insult`, and `identity_hate`.
+This project provides a streamlit application to analyze the toxicity of text inputs using a pre-trained BERT model. The application classifies text into multiple categories of toxicity including `toxic`, `severe_toxic`, `obscene`, `threat`, `insult`, and `identity_hate`.
 
 ## Features
 
